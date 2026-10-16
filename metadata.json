@@ -1,0 +1,6 @@
+{
+  "name": "Arya & Larasati Wedding",
+  "description": "Website undangan pernikahan interaktif Arya & Larasati dengan visual 3D React Three Fiber, countdown, RSVP, dan buku tamu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
